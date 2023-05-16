@@ -47,17 +47,7 @@ Coloque o código em um compilador de C++
 
 
 ## Linguagens, dependencias e libs utilizadas 📚
-![Android Studio]([https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white))
-
-
-📝 Tarefa 1
-
-📝 Tarefa 2
-
-📝 Tarefa 3
-
-## Desenvolvedores/Contribuintes:
-D
+![C++]([https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white))
 
 ## Licença
  Eduardo "Dudu" Pereira
