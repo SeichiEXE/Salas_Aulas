@@ -15,8 +15,6 @@
 
 🔹 Linguagens, dependências e libs utilizadas
 
-🔹 Desenvolvedores/Contribuintes
-
 🔹 Informações Extras
 
 
@@ -51,3 +49,6 @@ Coloque o código em um compilador de C++
 
 ## Licença
  Eduardo "Dudu" Pereira
+ 
+ ## Informações Extras
+ Usei o ChatGPT para me ajudar (desculpa por isso)
